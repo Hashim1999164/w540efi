@@ -14,4 +14,10 @@ Intel HD 4600
 
 What's not Working?
 
-Brightness else Everything Works Fine!
+Brightness Control and Nvidia else Everything Works Fine!
+
+What's Working?
+
+Everything Except Brightness Control and Nvidia.
+
+Need to make a bootable USB For Mac OS Big Sur and replace †he efi Folder with this one (This EFI Was Tested on 11.3.1 Big Sur)
